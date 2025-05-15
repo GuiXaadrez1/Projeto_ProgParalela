@@ -1,0 +1,35 @@
+1. Processamento de Imagens
+
+   - OpenCV: Biblioteca para processamento de imagens com funcionalidades como detecção de bordas e segmentação.
+     Instalação: pip install opencv-python
+
+   - Pillow (PIL): Biblioteca para manipulação de imagens (redimensionamento, corte, etc.).
+     Instalação: pip install pillow
+
+   - Scikit-image: Biblioteca para filtros, segmentação e transformações de imagem.
+     Instalação: pip install scikit-image
+
+2. Aprendizado de Máquina (Machine Learning)
+
+   - TensorFlow / Keras: Frameworks para aprendizado profundo, usados para treinamento de modelos de segmentação semântica.
+     Instalação: pip install tensorflow
+   - PyTorch: Framework de aprendizado profundo com boa implementação para segmentação de imagens.
+     Instalação: pip install torch torchvision
+
+3. Segmentação de Imagens
+
+   - U-Net: Arquitetura de rede neural para segmentação semântica, muito usada em imagens de satélite.
+   - DeepLabV3 (TensorFlow): Outra arquitetura de segmentação semântica avançada para imagens de satélite.
+     Instalação: pip install tensorflow
+
+4. Dados Geoespaciais
+
+   - Rasterio: Biblioteca para trabalhar com dados geoespaciais raster, como imagens de satélite.
+     Instalação: pip install rasterio
+   - Geopandas: Biblioteca para manipulação de dados geoespaciais vetoriais (ex.: shapefiles).
+     Instalação: pip install geopandas
+
+5. Modelos Pré-treinados
+
+   - Google Earth Engine: Plataforma para análise de dados geoespaciais e imagens de satélite.
+   - Kaggle: Repositório com competições e datasets relacionados a imagens de satélite e segmentação.
